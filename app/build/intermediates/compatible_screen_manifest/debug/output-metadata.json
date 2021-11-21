@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "co.gov.mintic.misiontic.udea.ciclo4",
+  "variantName": "debug",
+  "elements": []
+}

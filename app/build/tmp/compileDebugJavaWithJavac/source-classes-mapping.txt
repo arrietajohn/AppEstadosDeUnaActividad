@@ -1,0 +1,2 @@
+co/gov/mintic/misiontic/udea/ciclo4/BuildConfig.java
+ co.gov.mintic.misiontic.udea.ciclo4.BuildConfig
